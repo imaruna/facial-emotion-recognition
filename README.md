@@ -18,10 +18,10 @@ The model was built with **Python**, **TensorFlow/Keras**, and **OpenCV**, with 
 
 ## Technologies Used
 - **Python**
-- **TensorFlow/Keras** — CNN model building & training
-- **OpenCV** — Image loading & preprocessing
-- **Matplotlib** — Visualizing training history & evaluation results
-- **NumPy** — Array manipulation
+- **TensorFlow/Keras** - CNN model building & training
+- **OpenCV** - Image loading & preprocessing
+- **Matplotlib** - Visualizing training history & evaluation results
+- **NumPy** - Array manipulation
 
 ---
 
